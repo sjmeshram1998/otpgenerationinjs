@@ -1,3 +1,3 @@
 # otpgenerationinjs
 otp generation in js 
-https://github.com/sjmeshram1998/otpgenerationinjs/settings/pages
+https://sjmeshram1998.github.io/otpgenerationinjs/
